@@ -90,5 +90,5 @@ dependencies:
     - markupsafe==1.1.1
     - pillow==7.1.0
     - python-dateutil==2.6.0
-    - python-graphviz==0.16
+    - graphviz==0.16
 prefix: /home/briangordon/miniconda3/envs/FLEXClone
